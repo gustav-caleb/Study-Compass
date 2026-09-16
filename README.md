@@ -4,6 +4,8 @@ I developed the concept and requirements for Study Compass.
 The initial code and automated tests were generated with OpenAI Codex.
 I plan to study the implementation and make my own improvements.
 
+>>> The website   https://gustav-caleb.github.io/Study-Compass/
+
 # Study Compass
 
 A study tracker for any subject: record assessments, see subject and topic trends,
