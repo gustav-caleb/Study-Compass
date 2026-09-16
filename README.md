@@ -28,7 +28,6 @@ Open `dist/index.html` in a modern browser. For reliable persistent storage, use
 the published HTTPS version. File-based preview storage behaviour varies by browser.
 No build, Python server, account or API key is required.
 
-**First time publishing? Follow [START-HERE.md](START-HERE.md).**
 
 ## Data and scope
 
